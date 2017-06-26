@@ -1,1 +1,1 @@
-echo "# new project" >> README.md
+# new project
